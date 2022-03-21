@@ -8,7 +8,7 @@ import requests from './request';
 function App() {
   const LargeRow=true
   return (
-    <div className="App">
+    <div className="app">
 
       <Navbar/>
       <Banner/>
